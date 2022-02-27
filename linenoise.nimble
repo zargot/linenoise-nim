@@ -1,9 +1,9 @@
 [Package]
 name          = "linenoise"
-version       = "0.1.0"
+version       = "0.2.0"
 author        = "Jack VanDrunen"
 description   = "Wrapper for linenoise, a free, self-contained alternative to GNU readline."
 license       = "BSD"
 
 [Deps]
-Requires: "nim >= 0.11.2"
+Requires: "nim >= 1.2.0"
